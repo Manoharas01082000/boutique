@@ -25,7 +25,7 @@ const products = [
     { name: 'BALI BOWL', quantity: 8, price: null, image: 'images/bali_bowl.jpeg' },
     { name: 'BALI BOX', quantity: 8, price: null, image: 'images/bali_box.jpeg' },
     { name: 'CERAMIC TEA SETS', quantity: 2, price: null, image: 'images/ceramictea_sets.jpeg' },
-    { name: 'CERAMIC CATLE', quantity: 1, price: null, image: 'images/ceramic_catle.jpeg' },
+    { name: 'CERAMIC KETTLE', quantity: 1, price: null, image: 'images/ceramic_catle.jpeg' },
     { name: 'CARD GIFT SETS', quantity: 1, price: null, image: 'images/card_gift_sets.jpeg' },
     { name: 'JOURNAL', quantity: 2, price: 295, image: 'images/genrals.jpeg' },
     { name: 'METAL CANDLE HOLDER', quantity: 1, price: null, image: 'images/metal_candle_holder.jpeg' },
