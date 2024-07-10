@@ -13,7 +13,7 @@ const products = [
     { name: 'WHITE COTTON OT', quantity: 3, price: 1900, image: 'images/white_cotton.jpeg' },
     { name: 'WHITE COTTON (WITH BLUE LINE)OT', quantity: 4, price: 1500, image: 'images/white_cotton_blue_line.jpeg' },
     { name: 'GREEN COTTON', quantity: 2, price: 2200, image: 'images/green_cotton.jpeg' },
-    { name: 'BROWN STOLES', quantity: 1, price: 2200, image: 'images/brown.jpeg' },
+    { name: 'BROWN STOLES', quantity: 1, price: 2200, image: 'images/Brown.jpeg' },
     { name: 'BLUE STOLES', quantity: 1, price: 3500, image: 'images/blue.jpeg' },
     { name: 'BODY SCRUBS (HERBOMINERALS)', quantity: 3, price: null, image: 'images/body_scrubs_herbominerals.jpeg' },
     { name: 'BODY SCRUBS (TANUSHA)', quantity: 1, price: 185, image: 'images/body_scrubs_tanusha.jpeg' },
