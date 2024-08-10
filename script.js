@@ -35,7 +35,7 @@ const products = [
     { name: 'HOLISTIC HEALTH', quantity: 2, price: 250, image: 'images/holistic_health.jpeg' },
     { name: 'HEALING THE HOLE PERSON', quantity: 2, price: 340, image: 'images/healing_the_hole_person.jpeg' },
     { name: 'PATH OF FIRE AND LIGHT', quantity: 2, price: 295, image: 'images/path_of_fire_and_light.jpeg' },
-    { name: 'AYURVEDA OF SELF HEALING', quantity: 2, price: 395, image: 'images/ayurveda_of_self_healing.jpeg' },
+    { name: 'AYURVEDA OF SELF HEALING', quantity: 17, price: 395, image: 'images/ayurveda_of_self_healing.jpeg' },
     { name: 'BKS IYENGAR LIGHT ON YOGA', quantity: 1, price: 499, image: 'images/bks_iyengar_light_of_yoga.jpeg' },
     { name: 'LIGHT ON PRANAYAMA', quantity: 1, price: 399, image: 'images/light_of_pranayama.jpeg' },
     { name: 'PATH OF FIRE AND LIGHT', quantity: 1, price: 350, image: 'images/path_of_fire_and_lights.jpeg' },
