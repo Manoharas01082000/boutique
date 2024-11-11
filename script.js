@@ -52,7 +52,7 @@ const products = [
     { name: 'ADITI 40gm AUROSHIKHA', quantity: 03, price: 180, image: 'images/Aditi.jpeg' },
     { name: 'PURITY JASMINE 40gm AUROSHIKHA', quantity: 03, price: 180, image: 'images/Purity.jpeg' },
     { name: 'MIRRA AMBER 40gm AUROSHIKHA', quantity: 01, price: 180, image: 'images/Mirra.jpeg' },
-    { name: 'CHANDAN 40gm AUROSHIKHA', quantity: 02, price: 180, image: 'images/Chandan.jpeg' },
+    { name: 'CHANDAN 40gm AUROSHIKHA', quantity: 02, price: 180, image: 'images/Chandan.jpeg' }
 ];
 
 window.onload = () => {
