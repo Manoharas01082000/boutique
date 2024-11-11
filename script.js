@@ -41,7 +41,18 @@ const products = [
     { name: 'PATH OF FIRE AND LIGHT', quantity: 1, price: 350, image: 'images/path_of_fire_and_lights.jpeg' },
     { name: 'THE THEORY AND PRACTICE OF MEDITATION', quantity: 1, price: 295, image: 'images/the_theory_and_practice_of_meditation.jpeg' },
     { name: 'YOGA VASISTHA SARA SANGRAHM', quantity: 1, price: null, image: 'images/yoga_vasistha_sara_sangrahah.jpeg' },
-    { name: 'YOGA SUTRAS OF PATANJALI', quantity: 1, price: 895, image: 'images/yoga_sutras_of_patanjali.jpeg' }
+    { name: 'YOGA SUTRAS OF PATANJALI', quantity: 1, price: 895, image: 'images/yoga_sutras_of_patanjali.jpeg' },
+    { name: 'JASMINE INCENSE', quantity: 10, price: 250, image: 'images/Jasmine.jpeg' },
+    { name: 'NAGCHAMPA INCENSE', quantity: 05, price: 250, image: 'images/Ngavhampa.jpeg' },
+    { name: 'FRANKINCENSE INCENSE', quantity: 09, price: 250, image: 'images/Frankin.jpeg' },
+    { name: 'REAL CHAMPA INCENSE STICK', quantity: 04, price: 250, image: 'images/Champa.jpeg' },
+    { name: 'ROSE INCENSE STICK', quantity: 07, price: 250, image: 'images/Rose.jpeg' },
+    { name: 'REAL INCENSE STICK', quantity: 05, price: 250, image: 'images/Real.jpeg' },
+    { name: 'SURYA ROSE', quantity: 01, price: 180, image: 'images/Surya.jpeg' },
+    { name: 'ADITI 40gm AUROSHIKHA', quantity: 03, price: 180, image: 'images/Aditi.jpeg' },
+    { name: 'PURITY JASMINE 40gm AUROSHIKHA', quantity: 03, price: 180, image: 'images/Purity.jpeg' },
+    { name: 'MIRRA AMBER 40gm AUROSHIKHA', quantity: 01, price: 180, image: 'images/Mirra.jpeg' },
+    { name: 'CHANDAN 40gm AUROSHIKHA', quantity: 02, price: 180, image: 'images/Chandan.jpeg' },
 ];
 
 window.onload = () => {
